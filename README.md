@@ -108,8 +108,6 @@ This dashboard helps HR departments to:
 
 • Improve employee engagement initiatives
 
-📸 Dashboard Preview
-
 🧠 Future Enhancements
 
 • Predictive attrition analysis using Machine Learning
